@@ -17,4 +17,21 @@
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
     }
+    ,
+    {
+        "id":4,
+        "nombre": "Librera",
+        "imagen": "images/librera.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Credenza",
+        "imagen":"images/credenza.jpg"
+    },
+    {
+       "id":6,
+       "nombre":"Tocador",
+       "imagen":"images/tocador.jpg"
+    }
+
 ]
